@@ -12,6 +12,9 @@ In this part, a yolov8s is deployed on jetson orin nano 8gb using deepstream
    deepstream-app -c deepstream_app_config.txt
    ```
 ## Output Results
+![alt-txt](output.gif)
+
+complete video
 [output video](https://drive.google.com/file/d/1ikSp08GMgGCqC8YgI45xQZzHcCnoB8rS/view?usp=sharing)
 
 
